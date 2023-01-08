@@ -1,0 +1,4 @@
+com\demo\tododemo\data\entities\ToDoItem.class
+com\demo\tododemo\data\repositories\ToDoItemRepository.class
+com\demo\tododemo\ToDoDemoApplication.class
+com\demo\tododemo\rest\resources\ToDoResource.class
